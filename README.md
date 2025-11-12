@@ -33,7 +33,3 @@ Basic socket programming implementation where a server listens for client connec
 
 Both values can be modified in the source files.
 
-
-## Author
-
-Created by Ayoub
